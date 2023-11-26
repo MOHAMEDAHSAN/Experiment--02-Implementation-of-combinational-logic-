@@ -61,7 +61,8 @@ Give the Input Combinations according to the Truth Table amd then simulate the O
 ![F2](https://github.com/MOHAMEDAHSAN/Experiment--02-Implementation-of-combinational-logic-/assets/139331378/1fecf16e-7952-466c-8351-486d9317395d)
 
 ### Truth Table
-![TT](https://github.com/MOHAMEDAHSAN/Experiment--02-Implementation-of-combinational-logic-/assets/139331378/b6216970-ddaf-4e1a-9dab-0db6d40d9b2d)
+![TT](https://github.com/MOHAMEDAHSAN/Experiment--02-Implementation-of-combinational-logic-/assets/139331378/c63aa911-cbde-4723-82b4-034be03d409a)
+
 
 ### Timing Diagram
 ![TIMINGDIAG](https://github.com/MOHAMEDAHSAN/Experiment--02-Implementation-of-combinational-logic-/assets/139331378/29d2d49b-5684-4f94-a88c-aa5792f9d320)
